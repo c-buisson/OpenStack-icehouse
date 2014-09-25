@@ -1,5 +1,5 @@
-OpenStack-havana
-================
+OpenStack-icehouse
+==================
 
 Bash scripts to quickly setup an OpenStack environment.
 Run the controller script first.
